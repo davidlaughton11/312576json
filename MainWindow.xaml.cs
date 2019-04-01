@@ -1,4 +1,7 @@
-﻿using System;
+//David Laughton
+//april 1st 2019
+//Use a loop to read through a textfile and display in messageboxes
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
